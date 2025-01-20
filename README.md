@@ -33,4 +33,8 @@ Future Enhancements 🚀
 - Create a multi-round mode with a match winner.
 - Add animations to enhance user experience.
 
+Screenshot of Game
+
+![alt text](<Screenshot (1145).png>)
+
 Enjoy the game! 🥳
