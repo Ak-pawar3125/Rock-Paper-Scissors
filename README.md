@@ -37,7 +37,7 @@ Screenshot of Game
 
 ![alt text](<Screenshot (1145).png>)
 
-Visit this link to see and play the game
+Visit this link to play the game
 
 https://ak-pawar3125.github.io/Rock-Paper-Scissors/
 
