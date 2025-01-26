@@ -39,6 +39,6 @@ Screenshot of Game
 
 Visit this link to play the game
 
-https://ak-pawar3125.github.io/Rock-Paper-Scissors/
+https://akankshap-rock-paper-scissors.netlify.app/
 
 Enjoy the game! 🥳
