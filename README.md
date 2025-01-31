@@ -1,43 +1,42 @@
 # Rock-Paper-Scissors 🎮
 
-Author 👨‍💻
-- Created by: Akanksha Pawar 
-- Feel free to contribute or suggest improvements to the game.
+Feel free to contribute or suggest improvements to the game.
 
 This is a simple Rock, Paper, Scissors game built with HTML, CSS and JavaScript. The game allows users to play against a computer opponent with an interactive UI and real-time score tracking.
 
-How It Works? ⚙️
-1. User's Choice: The player selects one option from Rock, Paper, or Scissors.
-2. Computer's Choice: The computer generates a random choice.
-3. Comparison: The user's choice is compared with the computer's choice based on the game's rules:
-   - Rock beats Scissors
-   - Scissors beats Paper
-   - Paper beats Rock
-4. Result Display: The game displays whether the user wins, loses, or draws.
+# How It Works? ⚙️
+1. User's Choice: The player selects one option from Rock, Paper, or Scissors.<br>
+2. Computer's Choice: The computer generates a random choice.<br>
+3. Comparison: The user's choice is compared with the computer's choice based on the game's rules:<br>
+   - Rock beats Scissors<br>
+   - Scissors beats Paper<br>
+   - Paper beats Rock<br>
+4. Result Display: The game displays whether the user wins, loses, or draws.<br>
 
-Features ✨
-- Interactive design with hover effects.
-- Scoreboard to track user and computer scores.
-- Real-time feedback messages for game results.
-- Responsive layout for different screen sizes.
-- Fun and user-friendly interface.
+# Features ✨
 
-Technologies Used 💻
-- HTML5: For structuring the game layout.
-- CSS3: For styling the user interface and hover effects.
-- JavaScript: For game logic and interactivity.
+- Interactive design with hover effects.<br>
+- Scoreboard to track user and computer scores.<br>
+- Real-time feedback messages for game results.<br>
+- Responsive layout for different screen sizes.<br>
+- Fun and user-friendly interface.<br>
 
-Future Enhancements 🚀
-- Add sound effects for user interaction.
-- Implement a dark mode option for the interface.
-- Create a multi-round mode with a match winner.
-- Add animations to enhance user experience.
+# Technologies Used 💻
+- HTML5: For structuring the game layout.<br>
+- CSS3: For styling the user interface and hover effects.<br>
+- JavaScript: For game logic and interactivity.<br>
 
-Screenshot of Game
+# Future Enhancements 🚀
+- Add sound effects for user interaction.<br>
+- Implement a dark mode option for the interface.<br>
+- Create a multi-round mode with a match winner.<br>
+- Add animations to enhance user experience.<br>
+
+# Screenshot of Game
 
 ![alt text](<Screenshot (1145).png>)
 
-Visit this link to play the game
+# Visit this link to play the game
 
 https://akankshap-rock-paper-scissors.netlify.app/
 
